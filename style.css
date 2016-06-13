@@ -1,3 +1,38 @@
+@font-face {
+	font-family: monsterratLight;
+	src: url(Montserrat-Light.otf);
+}
+
+@font-face {
+	font-family: monsterratHairLine;
+	src: url(Montserrat-Hairline.otf);
+}
+
+@font-face {
+	font-family: monsterratBold;
+	src: url(Montserrat-Bold.otf);
+}
+@font-face {
+	font-family: monsterratBlack;
+	src: url(Montserrat-Black.otf);
+}
+@font-face {
+	font-family: monsterratExtraBold;
+	src: url(Montserrat-ExtraBold.otf);
+}
+@font-face {
+	font-family: monsterratRegular;
+	src: url(Montserrat-Regular.otf);
+}
+@font-face {
+	font-family: monsterratSemiBold;
+	src: url(Montserrat-SemiBold.otf);
+}
+@font-face {
+	font-family: monsterratUltraLight;
+	src: url(Montserrat-UltraLight.otf);
+}
+
 #iAmTheBody {
 	position: absolute;
 	width: 100%;
@@ -19,3 +54,19 @@
 	height: 20%;
 	width: 20%;
 }
+
+#textUnderPicture {
+	text-align: center;
+	font-family: monsterratLight;
+	font-size: 2em;
+}
+
+
+
+
+
+
+
+
+
+
