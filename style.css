@@ -44,15 +44,12 @@
 
 #leftSideHeader {
 	margin: 0px;
-	width: 15%;
+	width: 14.8%;
 	height: 100%;
 	background-color: white;
 	float: left;
-}
-
-#profilePicture {
-	height: 20%;
-	width: 20%;
+	border: 1px solid #e6e6e6;
+	position: absolute;
 }
 
 #textUnderPicture {
@@ -67,12 +64,25 @@
 	font-size: 1em;
 }
 
+#header {
+	float: right;
+	width: 84.85%;
+	height: 7%;
+	background-color: #ffffff;
+	margin: 0px;
+	border: 1px solid #e6e6e6;
+	border-left: 0px;
+}
 
+#upWorkLogo {
+	bottom: 0px;
+	height: 15%;
+	width: 100%;
+	position: relative;
+}
 
-
-
-
-
-
-
-
+.socialLinks {
+	height: 55px;
+	width: 55px;
+	bottom: 1px;
+}
